@@ -1,6 +1,6 @@
 {
   "name": "redux-magic-async-middleware",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "redux-magic-async-middleware is a reducer generator that uses magic-async-middleware to handle state updates",
   "main": "index.js",
   "repository": "https://github.com/algolia/redux-magic-async-middleware",
